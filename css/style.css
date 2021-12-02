@@ -1360,6 +1360,11 @@ input[type="text"] {
   float: left
 }
 
+@media (max-width: 850px) {
+        .hidden-mobile {
+          display: none;
+        }
+      }
 
 
 /*# sourceMappingURL=style.css.map */
